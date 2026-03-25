@@ -169,4 +169,6 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,windows
 
 .idea/
-src/
+
+# Playground - 자유 실험용 폴더 (gitignore 처리)
+/playground/
